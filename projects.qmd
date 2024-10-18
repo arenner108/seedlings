@@ -1,3 +1,12 @@
 ---
-title: "___"
+title: "Seedling Shiny App"
 ---
+
+```{r}
+library(tidyr)
+library(shiny)
+library(dplyr)
+library(ggplot2)
+```
+
+

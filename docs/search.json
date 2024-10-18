@@ -19,5 +19,12 @@
     "title": "About Me",
     "section": "",
     "text": "Thanks for checking out my web site!"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Seedling Shiny App",
+    "section": "",
+    "text": "library(tidyr)\nlibrary(shiny)\nlibrary(dplyr)\n\n\nAttaching package: 'dplyr'\n\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union\n\nlibrary(ggplot2)"
   }
 ]
