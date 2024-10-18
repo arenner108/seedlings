@@ -1,8 +1,0 @@
----
-title: "Seedlings"
-#about:
-#  id: me
-#  template: broadside
-#  image: img/profile.png
----
-
